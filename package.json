@@ -1,7 +1,7 @@
 {
-  "name": "master-bot",
+  "name": "Tulipo-bot",
   "version": "1.0.0",
-  "description": "just dumies bot",
+  "description": "Tulipo discord bot",
   "main": "index.js",
   "scripts": {
     "dev": "node bin/dev.js"
