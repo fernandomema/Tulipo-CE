@@ -23,9 +23,9 @@ For translate bot messages just click on the [![gitlocalized ](https://gitlocali
 This is the command list of the bot. This may be updated from time to time.   
 Prefix: `tl-`   Current commands:  
 ```
-| Commands		| Alias				|
-| ------------- | ------------- 	|
+| Commands		| Alias  |
+| ------------- | -------------  |
 | prefix  		| prefix, setprefix |
-| help 		  	| ?, h  			|
-| clear 		| clear, chatclear	|
+| help 		  	| ?, h  |
+| clear 		| clear, chatclear  |
 ```
