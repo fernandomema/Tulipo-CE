@@ -5,8 +5,9 @@ const client = new botClient();
 var i18n = require( "i18n-abide" );
 const isDiscordInvitation = require("is-discord-invitation");
 const fs = require("fs"); // Or `import fs from "fs";` with ESM
+var Dashboard;
 if (fs.existsSync("./dashboard/dashboard")) {
-    const Dashboard = require("./dashboard/dashboard");
+    Dashboard = require("./dashboard/dashboard");
 }
 
 require('better-logging')(console);
@@ -27,7 +28,6 @@ localizify
   .add('es', es)
   .setLocale('en');
 
-const fs = require('fs');
 const path = require('path');
 const cmdir = './commands';
 client.commands = new Discord.Collection();
@@ -227,7 +227,10 @@ client.on('guildMemberAdd', member => {
 
 client.once('ready', () => {
 	console.info(client.user.username + ' is Ready!');
-	Dashboard(client);
+	if (typeof Dashboard != 'undefined') {
+		Dashboard(client);
+	}
+	
 
 	// Activities 
 	setInterval(async () => {
