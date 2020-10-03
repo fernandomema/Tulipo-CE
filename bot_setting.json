@@ -1,0 +1,26 @@
+{
+	"description":"Hello, my name is Tulipo <:Tulipo:753417920452755556> nice to meet you here you can see my commands and support links in case you need help thanks for choosing me <:Tulipo:753417920452755556>",
+	"color":{
+		"info":"#20a0f0",
+		"warning":"#FFAC33",
+		"danger":"#f05040",
+		"hack":"#6B9913"
+	},
+
+	"usefulLink":[
+		{
+			"name" : "Invite",
+			"url" : "https://discordapp.com/oauth2/authorize?client_id=602803582986616851&scope=bot&permissions=2146958847&oldperms=523328" 
+		},
+		{
+			"name" : "Admin dashboard",
+			"url": "http://servitimo.net:8086/dashboard"
+		},
+		{
+		   "name" : "Support",
+		   "url" : "https://discord.gg/KaV866u"
+		   
+		}
+		
+	]
+}
