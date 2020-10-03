@@ -1,5 +1,5 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/fernandomema/Tulipo)
-[![gitlocalized ](https://gitlocalize.com/repo/5403/whole_project/badge.svg)](https://gitlocalize.com/repo/5403/whole_project?utm_source=badge)
+[![gitlocalized ](https://gitlocalize.com/repo/5403/whole_project/badge.svg)](https://gitlocalize.com/repo/5403/?utm_source=badge)
 
 # Index
 - [Tulipo](#tulipo)
@@ -17,7 +17,7 @@ For use gitpod IDE, you just need to click on  the [![Gitpod ready-to-code](http
  Go to the end of all the lines, and add this line `Token=<yourToken>`. Replace `'<yourToken>'` with the token, you copied before and save the file.  Now, in the gitpod terminal press control + c to stop the auto started process and run "npm run dev" to start the bot with the new token.
 The bot is now online. Invite it to a server, and run commands! 
 ## Translate
-For translate bot messages just click on the [![gitlocalized ](https://gitlocalize.com/repo/5403/whole_project/badge.svg)](https://gitlocalize.com/repo/5403/whole_project?utm_source=badge) badge, then you will need to login with your github and open `messages -> en.json` file to start translating
+For translate bot messages just click on the [![gitlocalized ](https://gitlocalize.com/repo/5403/whole_project/badge.svg)](https://gitlocalize.com/repo/5403/?utm_source=badge) badge, then you will need to login with your github and open `messages -> en.json` file to start translating
 
 ## Command List  
 This is the command list of the bot. This may be updated from time to time.   
