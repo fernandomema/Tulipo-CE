@@ -4,7 +4,11 @@ const cleverbot = require("cleverbot-free");
 const client = new botClient();
 var i18n = require( "i18n-abide" );
 const isDiscordInvitation = require("is-discord-invitation");
-const Dashboard = require("./dashboard/dashboard");
+const fs = require("fs"); // Or `import fs from "fs";` with ESM
+if (fs.existsSync("./dashboard/dashboard")) {
+    const Dashboard = require("./dashboard/dashboard");
+}
+
 require('better-logging')(console);
 console.logLevel = process.env.logLevel || 3;
 const owner = process.env.Owner;
