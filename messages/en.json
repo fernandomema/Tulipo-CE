@@ -1,3 +1,11 @@
 {
-    "tulipo.description": "Hello, my name is Tulipo <:Tulipo:753417920452755556> nice to meet you here you can see my commands and support links in case you need help thanks for choosing me <:Tulipo:753417920452755556>"
+   "tulipo.description":"Hello, my name is Tulipo <:Tulipo:753417920452755556> nice to meet you here you can see my commands and support links in case you need help thanks for choosing me <:Tulipo:753417920452755556>",
+   "Help sended to DM":"Help sended to DM",
+   "User {user} warned with reason {reason} by {muter}":"User {user} warned with reason {reason} by {muter}",
+   "you can't chat on {servername} because you're muted":"you can't chat on {servername} because you're muted",
+   "User {user} muted {reason} by {muter}":"User {user} muted {reason} by {muter}",
+   "User {user} unmuted by {muter}":"User {user} unmuted by {muter}",
+   "{count} messages deleted.":"{count} messages deleted.",
+   "Requested by":"Requested by",
+   "Roles":"Roles"
 }
