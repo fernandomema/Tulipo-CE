@@ -7,5 +7,8 @@
    "User {user} unmuted by {muter}":"User {user} unmuted by {muter}",
    "{count} messages deleted.":"{count} messages deleted.",
    "Requested by":"Requested by",
-   "Roles":"Roles"
+   "Roles":"Roles",
+   "Current language: {lang}.":"Current language: {lang}.",
+   "Lang changed to {lang}.":"Lang changed to {lang}.",
+   "User money":"User money"
 }
