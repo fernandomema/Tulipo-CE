@@ -1,0 +1,13 @@
+{
+  "tulipo.description": "Hola, em dic Tulipo <: Tulipo: 753417920452755556> estic encantat de conèixer-vos aquí, podeu veure les meves ordres i enllaços d'assistència per si necessiteu ajuda gràcies per triar-me <: Tulipo: 753417920452755556>",
+  "Help sended to DM": "Ajuda enviada a MD",
+  "User {user} warned with reason {reason} by {muter}": "{Muter} ha advertit a l'usuari {user} amb motiu {reason}",
+  "you can't chat on {servername} because you're muted": "no podeu xatejar a {servername} perquè esteu silenciat",
+  "User {user} muted {reason} by {muter}": "Usuari {user} silenciat {reason} per {muter}",
+  "{count} messages deleted.": "S'han suprimit {count} missatges.",
+  "Requested by": "Sol · licitat per",
+  "Roles": "Rols",
+  "Current language: {lang}.": "Idioma actual: {lang}.",
+  "Lang changed to {lang}.": "Lang ha canviat a {lang}.",
+  "User money": "Diners de l'usuari"
+}
