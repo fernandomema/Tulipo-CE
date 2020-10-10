@@ -28,5 +28,18 @@
    "Region":"Region",
    "There are **{playersLeft}** players left. Talk until someone says the kill word.":"There are **{playersLeft}** players left. Talk until someone says the kill word.",
    "Come on guys, get in the game!":"Come on guys, get in the game!",
-   "moron":"moron"
+   "moron":"moron",
+   "No has said the word for 10 minutes. We're voting anyway! Who looks suspicious?":"No has said the word for 10 minutes. We're voting anyway! Who looks suspicious?",
+   "Game ended due to inactivity.":"Game ended due to inactivity.",
+   "computer":"computer",
+   "Only en, es languages are available":"Only en, es languages are available",
+   "or":"or",
+   "Would you rather...":"Would you rather...",
+   "Medium":"Medium",
+   "Owner":"Owner",
+   "Low":"Low",
+   "Voice channels":"Voice channels",
+   "None":"None",
+   "Bans":"Bans",
+   "Text channels":"Text channels"
 }
