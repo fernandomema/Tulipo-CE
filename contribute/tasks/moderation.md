@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/fernandomema/Tulipo-CE/main/contribute/tasks/media/image1.png)
-
 **Tulipo Oficial**
 **Ayuda y soporte del Bot**
 
