@@ -139,5 +139,18 @@
   "you have been muted": "t'han silenciat",
   "You can't mute owner.": "No podeu silenciar el propietari.",
   "Original title": "Títol original",
-  "Example": "Exemple"
+  "Example": "Exemple",
+  "pog": "pog",
+  "word is, and try to catch the imposter saying it. As for the imposter, you know the word, try to get": "la paraula és, i intenteu captar l’impostor dient-ho. Pel que fa a l’impostor, ja sabeu la paraula, intenteu-ho",
+  "Game ended due to inactivity.": "El joc va acabar a causa de la inactivitat.",
+  "computer": "ordinador",
+  "Only en, es languages are available": "Només hi ha idiomes disponibles",
+  "Would you rather...": "Would you rather...",
+  "Medium": "Mitjà",
+  "Owner": "Propietari",
+  "Low": "baix",
+  "Voice channels": "Canals de veu",
+  "None": "Cap",
+  "Bans": "Prohibicions",
+  "Text channels": "Canals de text"
 }
